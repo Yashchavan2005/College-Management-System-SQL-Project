@@ -1,0 +1,17 @@
+# MySQL Log Files
+*.log
+*.tmp
+
+# Windows System Files
+Thumbs.db
+Desktop.ini
+
+# VS Code Settings
+.vscode/
+
+# PyCharm Settings
+.idea/
+
+# Temporary Files
+*.bak
+*.swp
